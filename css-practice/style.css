@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+.green {
+  color: green;
+}
+.big {
+  font-size: x-large;
+}
+.tiny {
+  font-size: smaller;
+}
+.centered {
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+}
+.family {
+  font-family: "Courier New", Courier, monospace;
+}
+.orange {
+  color: orange;
+}
+.styledFont {
+  color: green;
+}
+img {
+  border: 5px solid #555;
+}
